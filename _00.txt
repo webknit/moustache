@@ -1,1 +1,1 @@
-moustache.webknit.co.uk/index.html
+webknit.co.uk/moustache/index.html
